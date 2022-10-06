@@ -1,1 +1,16 @@
-# my-first-data-analysis-repo
+# project name: my-first-data-analysis-repo
+
+....
+# project description
+
+...
+# data design
+
+...
+# Findings from the data
+
+...
+# Analysis of the data
+
+...
+# conclusion and recommendation
